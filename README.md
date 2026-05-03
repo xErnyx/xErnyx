@@ -1,16 +1,43 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Juan David Figueroa Miño
 
-<!--
-**xErnyx/xErnyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Estudiante de Ingeniería | Especialista en Networking & Web Dev
+Ubicado en **Quito, Ecuador**. Me apasiona transformar arquitecturas de red complejas en soluciones funcionales y crear experiencias web modernas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Sobre mí
+* 🎓 Estudiante en la **Universidad Politécnica Salesiana**.
+* 🛰️ Experto en configuración de redes **Cisco**: VLANs, VTP y enrutamiento inter-VLAN.
+* 🗄️ Gestión y optimización de bases de datos con **SQL Server**.
+* 🌐 Desarrollador web enfocado en **HTML5, CSS3** y automatización con **GitHub Actions**.
+* 🛠️ Actualmente trabajando en el proyecto del **Museo de San Francisco**.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+**Networking & Infraestructura:**
+![Cisco](https://img.shields.io/badge/cisco-%23040306.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-005EA2?style=for-the-badge&logo=cisco&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+**Desarrollo Web & DevOps:**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 Mis Estadísticas
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=xErnyx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de xErnyx" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xErnyx&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="180px"/>
+</p>
+
+---
+
+### 🤝 Conectemos
+* 📍 Quito, Ecuador
+* 💼 [Perfil de LinkedIn](https://www.linkedin.com/in/juan-figueroa-98a816195/)
+* 📧 [Tu correo electrónico](jfigueroam3@est.ups.edu.ec )
