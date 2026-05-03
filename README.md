@@ -34,3 +34,11 @@ Ubicado en **Quito, Ecuador**. Me apasiona transformar arquitecturas de red comp
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xErnyx&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de xErnyx" height="150" />
   <img src="https://streak-stats.demolab.com/?user=xErnyx&theme=vision-friendly-dark&hide_border=true" alt="Racha de contribuciones" height="150" />
 </p>
+
+---
+
+### 🤝 Conectemos
+Ubicado en **Quito, Ecuador**. Aquí tienes mis redes para contactarme:
+
+*   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn badge" height="20" valign="middle"/> **LinkedIn**: [linkedin.com/in/juan-figueroa-98a816195](https://www.linkedin.com/in/juan-figueroa-98a816195/)
+*   <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Outlook badge" height="20" valign="middle"/> **Microsoft Outlook**: [jfigueroam3@est.ups.edu.ec](mailto:jfigueroam3@est.ups.edu.ec)
