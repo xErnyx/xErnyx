@@ -1,44 +1,51 @@
-# ¡Hola! 👋 Soy Juan David Figueroa Miño
+<div align="center">
 
-### 🚀 Estudiante de Ingeniería | Especialista en Networking & Web Dev
-Ubicado en **Quito, Ecuador**. Me apasiona transformar arquitecturas de red complejas en soluciones funcionales y crear experiencias web modernas.
+# Hi 👋, I'm Juan David Figueroa Miño 
 
----
-
-### 👨‍💻 Sobre mí
-* 🎓 Estudiante en la **Universidad Politécnica Salesiana**.
-* 🛰️ Experto en configuración de redes **Cisco**: VLANs, VTP y enrutamiento inter-VLAN.
-* 🗄️ Gestión y optimización de bases de datos con **SQL Server**.
-* 🌐 Desarrollador web enfocado en **HTML5, CSS3** y automatización con **GitHub Actions**.
-* 🛠️ Actualmente trabajando en el proyecto del **Museo de San Francisco**.
+### 🚀 Engineering Student | Networking & Web Development Specialist
+**Based in Quito, Ecuador**. Passionate about transforming complex network architectures into functional solutions and building modern web experiences.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+</div>
 
-**Networking & Infraestructura:**
-![Cisco](https://img.shields.io/badge/cisco-%23040306.svg?style=for-the-badge&logo=cisco&logoColor=white)
-![Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-005EA2?style=for-the-badge&logo=cisco&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-**Desarrollo Web & DevOps:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### 👨‍💻 About Me
+*   🎓 Currently a student at **Universidad Politécnica Salesiana**.
+*   🛰️ Specialist in **Cisco** networking: VLANs, VTP, and inter-VLAN routing.
+*   🗄️ Experienced in database management and optimization with **SQL Server**.
+*   🌐 Web developer focusing on **HTML5, CSS3**, and **GitHub Actions** automation.
+*   🛠️ Currently leading the web development for the **Museo de San Francisco** project.
 
 ---
 
-### 📊 Mis Estadísticas
+### 🛠️ My Tech Stack
+*This structure is based on your reference `image_fbdca7.png`:*
+
+| Frontend (UI/UX) | Backend & Systems | Tools |
+| :--- | :--- | :--- |
+| HTML5 / CSS3 / JavaScript | C# / C++ / Java | Git / GitHub |
+| Responsive Design | SQL Server / MySQL | Cisco Packet Tracer |
+| Web Automation | Python / PHP | Linux / Shell |
+
+---
+
+### 🧰 Languages and Tools
+*Inspired by the icon row in `image_fbdce0.png`:*
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Cisco](https://img.shields.io/badge/cisco-%23040306.svg?style=for-the-badge&logo=cisco&logoColor=white) ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+### 📊 My Statistics
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xErnyx&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de xErnyx" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=xErnyx&theme=vision-friendly-dark&hide_border=true" alt="Racha de contribuciones" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xErnyx&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="xErnyx's Stats" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=xErnyx&theme=vision-friendly-dark&hide_border=true" alt="Contribution Streak" height="150" />
 </p>
 
 ---
 
-### 🤝 Conectemos
-Ubicado en **Quito, Ecuador**. Aquí tienes mis redes para contactarme:
+### 🤝 Connect with Me
+Located in **Quito, Ecuador**. Feel free to reach out via:
 
 * <img src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" width="25" align="center" /> **LinkedIn**: [linkedin.com/in/juan-figueroa-98a816195](https://www.linkedin.com/in/juan-figueroa-98a816195/)
 * <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" alt="outlook" width="25" align="center" /> **Microsoft Outlook**: [jfigueroam3@est.ups.edu.ec](mailto:jfigueroam3@est.ups.edu.ec)
