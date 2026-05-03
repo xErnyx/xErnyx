@@ -31,7 +31,7 @@ Ubicado en **Quito, Ecuador**. Me apasiona transformar arquitecturas de red comp
 
 ### 📊 Mis Estadísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xErnyx&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Estadísticas de xErnyx" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xErnyx&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de xErnyx" height="150" />
   <img src="https://streak-stats.demolab.com/?user=xErnyx&theme=vision-friendly-dark&hide_border=true" alt="Racha de contribuciones" height="150" />
 </p>
 
