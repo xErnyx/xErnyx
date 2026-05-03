@@ -19,8 +19,6 @@
 ---
 
 ### 🛠️ My Tech Stack
-*This structure is based on your reference `image_fbdca7.png`:*
-
 | Frontend (UI/UX) | Backend & Systems | Tools |
 | :--- | :--- | :--- |
 | HTML5 / CSS3 / JavaScript | C# / C++ / Java | Git / GitHub |
@@ -30,22 +28,25 @@
 ---
 
 ### 🧰 Languages and Tools
-*Inspired by the icon row in `image_fbdce0.png`:*
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Cisco](https://img.shields.io/badge/cisco-%23040306.svg?style=for-the-badge&logo=cisco&logoColor=white) ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/cisco-%23040306.svg?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/sqlserver-%23CC2927.svg?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white" alt="Actions" />
+</p>
 
 ---
 
 ### 📊 My Statistics
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xErnyx&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="xErnyx's Stats" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=xErnyx&theme=vision-friendly-dark&hide_border=true" alt="Contribution Streak" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xErnyx&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=xErnyx&theme=vision-friendly-dark&hide_border=true" alt="Streak" height="150" />
 </p>
 
 ---
 
 ### 🤝 Connect with Me
-Located in **Quito, Ecuador**. Feel free to reach out via:
-
 * <img src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" width="25" align="center" /> **LinkedIn**: [linkedin.com/in/juan-figueroa-98a816195](https://www.linkedin.com/in/juan-figueroa-98a816195/)
 * <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" alt="outlook" width="25" align="center" /> **Microsoft Outlook**: [jfigueroam3@est.ups.edu.ec](mailto:jfigueroam3@est.ups.edu.ec)
