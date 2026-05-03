@@ -40,5 +40,5 @@ Ubicado en **Quito, Ecuador**. Me apasiona transformar arquitecturas de red comp
 ### 🤝 Conectemos
 Ubicado en **Quito, Ecuador**. Aquí tienes mis redes para contactarme:
 
-*   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn badge" height="20" valign="middle"/> **LinkedIn**: [linkedin.com/in/juan-figueroa-98a816195](https://www.linkedin.com/in/juan-figueroa-98a816195/)
-*   <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Outlook badge" height="20" valign="middle"/> **Microsoft Outlook**: [jfigueroam3@est.ups.edu.ec](mailto:jfigueroam3@est.ups.edu.ec)
+* <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="25" height="25" align="center" /> **LinkedIn**: [linkedin.com/in/juan-figueroa-98a816195](https://www.linkedin.com/in/juan-figueroa-98a816195/)
+* <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/outlook.svg" alt="outlook" width="25" height="25" align="center" /> **Microsoft Outlook**: [jfigueroam3@est.ups.edu.ec](mailto:jfigueroam3@est.ups.edu.ec)
