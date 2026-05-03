@@ -25,19 +25,18 @@ Ubicado en **Quito, Ecuador**. Me apasiona transformar arquitecturas de red comp
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ### 📊 Mis Estadísticas
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=xErnyx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de xErnyx" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xErnyx&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="180px"/>
-</p>
+
+![Estadísticas de xErnyx](https://github-readme-stats.vercel.app/api?username=xErnyx&show_icons=true&theme=dark)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=xErnyx&layout=compact&theme=dark)
 
 ---
 
 ### 🤝 Conectemos
 * 📍 Quito, Ecuador
 * 💼 [Perfil de LinkedIn](https://www.linkedin.com/in/juan-figueroa-98a816195/)
-* 📧 [Tu correo electrónico](jfigueroam3@est.ups.edu.ec )
+* 📧 [jfigueroam3@est.ups.edu.ec](mailto:jfigueroam3@est.ups.edu.ec)
