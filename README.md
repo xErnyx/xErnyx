@@ -38,14 +38,14 @@ Ubicado en **Quito, Ecuador**. Me apasiona transformar arquitecturas de red comp
 ---
 
 ### 🤝 Conectemos
-Ubicado en **Quito, Ecuador**. Haz clic en las insignias para contactarme:
+Ubicado en **Quito, Ecuador**. Haz clic en los iconos para contactarme:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/juan-figueroa-98a816195/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="28"/>
+    <img src="https://img.shields.io/badge/-%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:jfigueroam3@est.ups.edu.ec">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" height="28"/>
+    <img src="https://img.shields.io/badge/-%20-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
   </a>
 </p>
