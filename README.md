@@ -25,18 +25,27 @@ Ubicado en **Quito, Ecuador**. Me apasiona transformar arquitecturas de red comp
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ### 📊 Mis Estadísticas
-
-![Estadísticas de xErnyx](https://github-readme-stats.vercel.app/api?username=xErnyx&show_icons=true&theme=dark)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=xErnyx&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xErnyx&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Estadísticas de xErnyx" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=xErnyx&theme=vision-friendly-dark&hide_border=true" alt="Racha de contribuciones" height="150" />
+</p>
 
 ---
 
 ### 🤝 Conectemos
-* 📍 Quito, Ecuador
-* 💼 [Perfil de LinkedIn](https://www.linkedin.com/in/juan-figueroa-98a816195/)
-* 📧 [jfigueroam3@est.ups.edu.ec](mailto:jfigueroam3@est.ups.edu.ec)
+Ubicado en **Quito, Ecuador**. Haz clic en las insignias para contactarme:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/juan-figueroa-98a816195/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="28"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:jfigueroam3@est.ups.edu.ec">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" height="28"/>
+  </a>
+</p>
