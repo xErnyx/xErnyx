@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Juan David Figueroa Miño 
+# Hi 👋, I'm Juan Figueroa
 
 ### 🚀 Engineering Student | Networking & Web Development Specialist
 **Based in Quito, Ecuador**. Passionate about transforming complex network architectures into functional solutions and building modern web experiences.
