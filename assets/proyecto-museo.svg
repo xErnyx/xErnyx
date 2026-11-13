@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="150" viewBox="0 0 520 150" role="img" aria-label="Museo de San Francisco">
+  <style>
+    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1.5; }
+    .title { font: 600 18px 'Segoe UI', Ubuntu, sans-serif; fill: #58a6ff; }
+    .desc { font: 400 13px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9; }
+    .tag { font: 500 11px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e; }
+    .chip { fill: #161b22; stroke: #30363d; }
+    .card { animation: fade 0.8s ease-out both; }
+    .line { fill: #58a6ff; transform-box: fill-box; transform-origin: left center; animation: grow 1.2s ease-out 0.3s both; }
+    @keyframes fade { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  </style>
+  <g class="card">
+    <rect class="bg" x="1" y="1" width="518" height="148" rx="10"/>
+    <text class="title" x="24" y="36">Museo de San Francisco</text>
+    <rect class="line" x="24" y="46" width="120" height="2" rx="1"/>
+    <text class="desc" x="24" y="76">Sitio web del Museo de San Francisco.</text>
+    <text class="desc" x="24" y="96">Liderazgo del desarrollo web del proyecto.</text>
+    <rect class="chip" x="24" y="110" width="76" height="22" rx="11"/>
+    <text class="tag" x="40" y="125">Desarrollo web</text>
+    <rect class="chip" x="108" y="110" width="76" height="22" rx="11"/>
+    <text class="tag" x="125" y="125">xErnyx / repo</text>
+  </g>
+</svg>
