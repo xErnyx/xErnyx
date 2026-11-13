@@ -1,52 +1,102 @@
 <div align="center">
 
-# Hi 👋, I'm Juan Figueroa
+<img src="xErnyx/assets/banner.svg" alt="Juan Figueroa — Networking & Web Development" width="100%" />
 
-### 🚀 Engineering Student | Networking & Web Development Specialist
-**Based in Quito, Ecuador**. Passionate about transforming complex network architectures into functional solutions and building modern web experiences.
+<br/>
 
----
+<a href="https://www.linkedin.com/in/juan-figueroa-98a816195/"><img src="xErnyx/assets/icons/linkedin.svg" alt="LinkedIn" height="84" /></a>&nbsp;&nbsp;
+<a href="mailto:jfigueroam3@est.ups.edu.ec"><img src="xErnyx/assets/icons/email.svg" alt="Email" height="84" /></a>&nbsp;&nbsp;
+<a href="https://github.com/xErnyx?tab=repositories"><img src="xErnyx/assets/icons/github.svg" alt="GitHub" height="84" /></a>
+
+<img src="xErnyx/assets/divider.svg" alt="" width="100%" />
 
 </div>
 
-### 👨‍💻 About Me
-*   🎓 Currently a student at **Universidad Politécnica Salesiana**.
-*   🛰️ Specialist in **Cisco** networking: VLANs, VTP, and inter-VLAN routing.
-*   🗄️ Experienced in database management and optimization with **SQL Server**.
-*   🌐 Web developer focusing on **HTML5, CSS3**, and **GitHub Actions** automation.
-*   🛠️ Currently leading the web development for the **Museo de San Francisco** project.
+## 👨‍💻 About Me
 
----
+- 🎓 Engineering student at **Universidad Politécnica Salesiana** (Quito, Ecuador).
+- 🛰️ **Cisco networking:** VLANs, VTP and inter-VLAN routing.
+- 🗄️ **Databases:** management and optimization with **SQL Server** and MySQL.
+- 🌐 **Web:** responsive interfaces with HTML5, CSS3 and JavaScript.
+- ⚙️ **Automation:** GitHub Actions workflows.
+- 🛠️ Currently leading the web development of the **Museo de San Francisco** project.
 
-### 🛠️ My Tech Stack
-| Frontend (UI/UX) | Backend & Systems | Tools |
-| :--- | :--- | :--- |
-| HTML5 / CSS3 / JavaScript | C# / C++ / Java | Git / GitHub |
-| Responsive Design | SQL Server / MySQL | Cisco Packet Tracer |
-| Web Automation | Python / PHP | Linux / Shell |
+<div align="center"><img src="xErnyx/assets/divider.svg" alt="" width="100%" /></div>
 
----
+## 🚀 Featured Project
 
-### 🧰 Languages and Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/cisco-%23040306.svg?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
-  <img src="https://img.shields.io/badge/sqlserver-%23CC2927.svg?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white" alt="Actions" />
-</p>
+<div align="center">
 
----
+<!-- TODO: replace the href with the repo or live site of the project -->
+<a href="https://github.com/xErnyx?tab=repositories">
+  <img src="xErnyx/assets/museo-card.svg" alt="Museo de San Francisco — web development project" width="100%" />
+</a>
 
-### 📊 My Statistics
+</div>
+
+<div align="center"><img src="xErnyx/assets/divider.svg" alt="" width="100%" /></div>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**<br/>
+<img src="xErnyx/assets/icons/html5.svg" alt="HTML5" height="96" />
+<img src="xErnyx/assets/icons/css3.svg" alt="CSS3" height="96" />
+<img src="xErnyx/assets/icons/javascript.svg" alt="JavaScript" height="96" />
+
+**Languages**<br/>
+<img src="xErnyx/assets/icons/csharp.svg" alt="C#" height="96" />
+<img src="xErnyx/assets/icons/cpp.svg" alt="C++" height="96" />
+<img src="xErnyx/assets/icons/java.svg" alt="Java" height="96" />
+<img src="xErnyx/assets/icons/python.svg" alt="Python" height="96" />
+<img src="xErnyx/assets/icons/php.svg" alt="PHP" height="96" />
+
+**Databases**<br/>
+<img src="xErnyx/assets/icons/sqlserver.svg" alt="SQL Server" height="96" />
+<img src="xErnyx/assets/icons/mysql.svg" alt="MySQL" height="96" />
+
+**Networking & Tools**<br/>
+<img src="xErnyx/assets/icons/cisco.svg" alt="Cisco" height="96" />
+<img src="xErnyx/assets/icons/git.svg" alt="Git" height="96" />
+<img src="xErnyx/assets/icons/github.svg" alt="GitHub" height="96" />
+<img src="xErnyx/assets/icons/githubactions.svg" alt="GitHub Actions" height="96" />
+<img src="xErnyx/assets/icons/linux.svg" alt="Linux" height="96" />
+
+</div>
+
+<div align="center"><img src="xErnyx/assets/divider.svg" alt="" width="100%" /></div>
+
+## 🌐 Networking Skills
+
+| Topic | What I do |
+| :--- | :--- |
+| 🔀 **VLANs** | Segment networks by department or function |
+| 🔄 **VTP** | Centralized VLAN management across switches |
+| 🛣️ **Inter-VLAN routing** | Communication between VLANs through a router / L3 switch |
+| 🧪 **Tools** | Cisco Packet Tracer and CLI configuration |
+
+<div align="center"><img src="xErnyx/assets/divider.svg" alt="" width="100%" /></div>
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xErnyx&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=xErnyx&theme=vision-friendly-dark&hide_border=true" alt="Streak" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xErnyx&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xErnyx&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" alt="Top languages" height="170" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=xErnyx&theme=tokyonight&hide_border=true&border_radius=16" alt="Streak" height="170" />
 </p>
 
----
+<!-- Generated by .github/workflows/profile-3d.yml. Run it once from the Actions tab before this image shows up. -->
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" width="100%" />
+</p>
 
-### 🤝 Connect with Me
-* <img src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" width="25" align="center" /> **LinkedIn**: [linkedin.com/in/juan-figueroa-98a816195](https://www.linkedin.com/in/juan-figueroa-98a816195/)
-* <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" alt="outlook" width="25" align="center" /> **Microsoft Outlook**: [jfigueroam3@est.ups.edu.ec](mailto:jfigueroam3@est.ups.edu.ec)
+<div align="center"><img src="xErnyx/assets/divider.svg" alt="" width="100%" /></div>
+
+<div align="center">
+
+⭐ Thanks for visiting my profile — feel free to reach out!
+
+</div>
