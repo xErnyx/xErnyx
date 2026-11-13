@@ -81,10 +81,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xErnyx&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xErnyx&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" alt="Top languages" height="170" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=xErnyx&theme=tokyonight&hide_border=true&border_radius=16" alt="Streak" height="170" />
 </p>
 
